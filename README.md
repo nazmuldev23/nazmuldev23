@@ -98,15 +98,7 @@ class Developer {
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
 
-  <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/nazmul-hossain-2130793b1/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
-       height="40"
-       width="40"
-       alt="LinkedIn" />
-</a>
-
- 
+  
   <!-- Facebook -->
   <a href="https://www.facebook.com/YOUR_USERNAME" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" />
