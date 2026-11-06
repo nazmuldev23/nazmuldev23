@@ -86,11 +86,11 @@ class Developer {
 
 ## 👀 Visitor Counter
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nazmuldev23&label=Profile%20Views&color=ff6b6b&style=for-the-badge" />
-</p>
+## 👀 Profile Views
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nazmuldev23&label=Total%20Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ## 🌐 Connect With Me
 
