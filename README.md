@@ -43,7 +43,7 @@ class Developer {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio,linux" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,linux" />
 </p>
 
 ---
