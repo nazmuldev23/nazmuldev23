@@ -84,8 +84,6 @@ class Developer {
 
 ---
 
-## 👀 Visitor Counter
-
 ## 👀 Profile Views
 
 <p align="center">
@@ -95,8 +93,24 @@ class Developer {
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/nazmuldev23">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <!-- GitHub -->
+  <a href="https://github.com/nazmuldev23" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+
+  <!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/nazmul-hossain-2130793b1/" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" />
+</a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/8801337020906" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40" />
   </a>
 </p>
 
